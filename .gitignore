@@ -1,1 +1,1 @@
-Nothing should be ignored in this case, as only a README.md file was added, which is a source/config file and not a build artifact, dependency, or temporary file.
+Nothing needs to be added to .gitignore since only a Python source file (`solutions.py`) was added, which is regular source code that should be tracked in version control.
